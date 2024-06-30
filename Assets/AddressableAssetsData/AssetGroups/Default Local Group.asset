@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 53388ca0437ef6a4e8a32d62d8f9dccc
+  m_SerializeEntries:
+  - m_GUID: 6a5845635aecda946a7d43e783f3f418
+    m_Address: Assets/Scripts/Cards/Seed.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 916a190a67984f84e8077422e132cee7
+    m_Address: Assets/Scripts/Cards/Sakura.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 88745f36879f8dd4a824f1279b225528
+    m_Address: Assets/Scripts/Cards/Nanohana.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 52107cfed0225864fa17d81e85d6c9b2
+    m_Address: Assets/Scripts/Cards/Wasurenagusa.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eccb5ae57fa27f841a853e6497149d48
+    m_Address: Assets/Scripts/Cards/Tanpopo.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f57dfcbed47a34849bb06ea1d91058ec
+    m_Address: Assets/Scripts/Cards/Tulip.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 15c408e1e19b429429fc20cdb332c695
+    m_Address: Assets/Scripts/Cards/Suisen.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0a04c8b750a9def4991660fd676759a0
+    m_Address: Assets/Scripts/Cards/Nemophila.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 02d1ab5bb5206ca4db9c4834ec906425
+    m_Address: Assets/Scripts/Cards/Momo.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d88d77ffc917f74499d8ad697db68a94, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: eadcbeb9e0d63e64f94194bffc5ad3eb, type: 2}
+    - {fileID: 11400000, guid: 1cbdcab0f27c50e48a284d18d6a81e02, type: 2}
